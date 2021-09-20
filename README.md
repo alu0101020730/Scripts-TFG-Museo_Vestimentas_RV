@@ -1,8 +1,9 @@
 # Scripts-TFG-Museo_Vestimentas_RV
 Pequeña descripcion del TFG y Demo de la aplicación
 
-## Video
-[![Ver Demo](https://img.youtube.com/vi/G4vdpIsoAw8/hqdefault.jpg)](https://www.youtube.com/watch?v=G4vdpIsoAw8&feature=emb_title)
+## Objetivo final
+El objetivo final es ofrecer la experiencia de una visita al pasado en un museo de vestimentas usadas en el S.XVI en San Cristóbal de La Laguna en Realidad Virtual.
+En esta aplicación se une el modelo digital del Museo Cayetano Gómez Felipe y modelos de personajes con vestimentas del s.XVI más comunes de La Laguna. 
 
 ## Scripts
 
@@ -21,3 +22,7 @@ Esta clase se encarga de recibir el input del controlador para que el jugador pu
 - PersonajeGuiaMuseoController: El modelo que tiene animación se controla a través de esta clase. Esta maneja cuando debe avanzar, que animación debe reproducir y cuando mostrar su panel de información en cada parada.
 
 Por último todas estas clases, son manejadas de manera externa através de la clase GuiaPrincipalController. Esta se encarga de coordinar las funciones del resto, permitiendo crear el servicio resultante de la guía.
+
+
+## Video
+[![Ver Demo](https://img.youtube.com/vi/G4vdpIsoAw8/hqdefault.jpg)](https://www.youtube.com/watch?v=G4vdpIsoAw8&feature=emb_title)
